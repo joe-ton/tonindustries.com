@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Joe Ton's Personal Website</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
+</head>
+<body>
+    <h1>Welcome to Joe Ton's Personal Website</h1>
+    <p>Check out my articles:</p>
+    <ul>
+        {{range .}}
+            <li><a href="/articles/{{.}}">{{.}}</a></li>
+        {{end}}
+    </ul>
+</body>
+</html>
