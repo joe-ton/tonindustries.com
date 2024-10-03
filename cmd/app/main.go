@@ -30,6 +30,9 @@ func main() {
 	})
 
 	http.HandleFunc("/articles", articlesHandler)
+	http.HandleFunc("/test", func(w http.ResponseWriter, r *http.Request) {
+		fmt.Fprintf(w, "This is a test route!")
+	})
 
 	fmt.Println("Server is running on port 8080")
 	http.ListenAndServe(":8080", nil)
@@ -38,15 +41,21 @@ func main() {
 func articlesHandler(w http.ResponseWriter, r *http.Request) {
 	rows, err := db.Query("SELECT title FROM articles")
 	if err != nil {
-		log.Fatal(err)
+		log.Println("Error fetching articles:", err)
+		http.Error(w, "Error fetching articles", http.StatusInternalServerError)
+		return
 	}
 	defer rows.Close()
+
+	fmt.Println("Fetching articles from database...")
 
 	for rows.Next() {
 		var title string
 		err := rows.Scan(&title)
 		if err != nil {
-			log.Fatal(err)
+			log.Println("Error scanning row:", err)
+			http.Error(w, "Error scanning row", http.StatusInternalServerError)
+			return
 		}
 		fmt.Fprintf(w, "<h1>%s</h1>", title)
 	}
