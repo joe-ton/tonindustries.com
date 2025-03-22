@@ -1,0 +1,29 @@
+>Action 2: Asking Clarity
+
+    When engineers dig deeper into technical challenges, we often ask direct questions like, "Do you know [topic]?" For instance, "Are you familiar with REST vs. gRPC API structures?" This style works fine privately or among close colleagues.
+
+However, human psychology changes in group situations or when interacting with unfamiliar team members, meetups, or potential clients. Such direct questions might unintentionally cause embarrassment or discomfort. Even if the intent is purely technical clarity, some engineers can feel defensive or singled out, and others might even exploit these moments to showcase their expertise at another’s expense.
+
+Correcting misunderstandings or gaps in knowledge is necessary at times, but
+effectiveness comes with tact. Remember: tech is a small world.
+
+To foster a healthier environment and prevent these issues, consider framing
+your questions through this conversation flow:
+
+Empathy → Intent → Check-in
+
+Empathy (Acknowledging complexity):
+“We all know APIs can get complicated, and it’s completely normal to find certain aspects tricky.”
+
+Intent (Clarifying the goal):
+“My goal here is to make sure we all feel aligned so we can collaborate effectively.”
+
+Check-in (Encouraging open dialogue):
+
+“How does everyone feel about APIs right now? Is there something you’d find useful to go over together before moving on?”
+ 
+    Noticed that we have two components happenning here when conversing with
+    gather more technical information: "we" and "emotion"
+
+    Also, I don't want to sound like one of those self-help books.  If you detect a colleague has a habit of toxic behavior, obviously shut it down.  Advocate for yourself.  Get your manager involved and provide receipts.  Document everything.  Careful of HR -- remember they work for the company, not for you.
+

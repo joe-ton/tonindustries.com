@@ -1,0 +1,117 @@
+2025 - 80 Days
+Friday - 3/21/2025
+
+Small Talk, Big Results: Communication Tips for Engineers and Architects
+
+>Context:
+
+    Successful tech careers revolve around a single principle: visible impact
+
+    We often assume developers and architects are recognized and rewarded strictly for their direct contributions—designing, building, and guiding a project from concept to production. However, reality isn't always that straightforward. Engineers may deliver substantial value yet sometimes find their efforts overlooked if their impact isn't clearly visible to stakeholders. 
+
+    Conversely, tech personalities or influencers often gain praise, not because they've directly created a product or service, but because their contributions are highly visible and resonate widely—even if primarily reactionary. 
+    
+    In tech, sometimes the most praise goes to the person who fixed the coffee machine rather than the codebase.  Turns out fixing the coffee machine is a universally visible impact—lesson learned.
+
+    This disparity highlights why combining genuine impact with clear visibility is crucial. To thrive in the tech industry, professionals must not only deliver tangible results but also effectively communicate and highlight the significance of their contributions.
+
+---
+Summary: Be the Lighthouse, Not Just the Engine
+---
+
+>Solution: 
+
+    Strangely, after years in the tech industry, I've discovered that the number one challenge isn't technical—it's communication. More specifically, it's aligning people toward shared goals.
+
+    To achieve alignment effectively, think of every meeting as two meetings: one small and one deep.
+
+    I wasn't always this way. Like many well-intentioned engineers, I used to jump straight into solving problems, dismissing small talk as an unnecessary distraction. This was true even in my personal life. I believed cutting to the chase made me efficient.
+
+    But genuine effectiveness requires connection, and connection starts with introductions and small talk.
+
+    Here's a quick story that illustrates this lesson perfectly:
+
+    My dad is an accomplished architect with many more years in his industry than I have in mine. He often takes his clients out to dinner, "wining and dining them", and frequently picking up the tab. When I asked him why, his answer was simple yet profound:
+
+    "Because people want to work with people they like."
+
+Most of us appreciate connecting over a meal, especially when it's on someone else's tab.
+
+The lesson is clear: technical skills are crucial, but the power of communication—and the connection it fosters—is often what truly drives success.
+
+Summary: Small Talks, Deep Walks
+
+
+>Action: Small Talk
+
+    I want to acknowledge my girlfriend's insightful point about reengaging
+    with small talk as an effective strategy for increasing visibility. 
+
+    My girlfriend, who studied communication, often reminds me how impactful small talk can be—and I’ve learned to trust her perspective.
+
+    From my co-workers, I've been recognized for my straightforward, direct communication style—often described as being a "straight shooter." 
+
+    While I genuinely value that feedback and believe clarity and honesty are essential, I'm learning that emotional intelligence can greatly enhance my effectiveness in as an Individual Contributer -- espeically in lead roles or customer-facing responsibilities.
+    
+    I've had experiences with being the technical liaison for external customer's
+    business decisions.  The conversation flow should be something like this:
+
+    Neutral -> Specific (main reason for meeting)
+
+    After the small introduction, interchange between tagging and mirroring based on the book "Never Split the
+    Difference" by Chris Voss.  When you get an openning go for the overview of
+    the meeting.  Example below:
+
+- Neutral: "Hi, I'm Joe!  How's your day?"
+- Other: Dandy as a dandelion!
+
+- Tagging: Reflect their emotions ("It seems you're having a good day.")
+- Other: That's right!  This standup is outstanding!
+
+- Mirroring: Confirm understanding ("Outstanding to hear.")
+
+- Other: Hopefully, our actual progress today isn't just standing around! 
+- Meeting: Introduce meeting agenda ("Glad this standup is outstanding—we’re already off to a great start! Now, let's channel all this enthusiasm into our main agenda today.")
+
+  The key is callbacks—remembering the details from small conversations. When
+  you recall personal points, like a customer mentioning their daughter's
+  graduation next week, and reference it at your next meeting, you demonstrate
+  genuine interest. It creates trust, paving the way for smoother technical or
+  business discussions and ultimately more successful outcomes.  Also, it
+  wouldn't hurt to jot down notes about your colleague's fantasy football tips
+  after a meeting.
+
+  While small talk isn't explicitly mentioned in job descriptions for people in
+  tech, mastering these conversational details builds the critical bridges you need to effectively address technical and business challenges.  
+
+>Tradeoffs: All decisions are tradeoffs.
+    As Mark Richards and Neal Ford say, 'Everything in software architecture is a trade-off.' Choosing coffee quality versus code quality is certainly among them.
+
+>Closing: Ping Before You Push
+
+   For those less familiar with networking or Git terminology, "ping" means
+   sending a quick check to confirm something (or someone!) is responsive. In
+   software engineering, "Push" means confidently committing or delivering your
+   code changes.  Forgive me for the networking pun—but remember: always ping before you push!
+
+    For a Solution Architect role, it involves bridging technology and business needs, a task requiring both logical rigor and nuanced human insight.  Building strong relationships, establishing trust, and fostering collaboration often begin with casual conversations and genuine connection—areas where small talk excels.
+
+    In other words, always check-in gently with small talks before walking with
+them into deeper conversations.  Smalls Talks, Deep Walks.  Ping Before you Push.
+
+
+References:
+
+- In American culture, 1/3 of communication is done with small talk.
+https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/8/1090/files/2023/03/small_talk_isnt_small.pdf
+
+- Girfriend
+[phone redacted]
+
+- Small talk leads to network.
+https://careerhub.students.duke.edu/blog/2024/09/27/leveraging-the-power-of-small-talk-as-an-international-student-in-the-us/
+
+    
+- 70% communication attributed to engineer success
+https://www.apu.apus.edu/area-of-study/electrical-engineering/resources/why-communication-is-a-critical-skill-for-engineers/
+
