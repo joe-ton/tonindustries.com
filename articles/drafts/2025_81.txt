@@ -1,3 +1,11 @@
+
+>Sleep: Consistency Matters
+
+Engineers stuggle with timelines.  Often times, when dealing with timelines,
+engineers will skip on daily activities.  This leads to bad decision making
+ability.  
+
+
 >Action 2: Asking Clarity
 
     When engineers dig deeper into technical challenges, we often ask direct questions like, "Do you know [topic]?" For instance, "Are you familiar with REST vs. gRPC API structures?" This style works fine privately or among close colleagues.
