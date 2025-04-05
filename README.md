@@ -40,3 +40,8 @@ Fully containerized
 Structured for scale: blog, resume, contact
 
 Personal brand-first architecture
+
+
+git fetch origin
+git merge origin/main
+
