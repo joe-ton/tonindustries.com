@@ -1,0 +1,9 @@
+# .dockerignore
+node_modules
+frontend/node_modules
+*.log
+*.md
+Dockerfile  # Only ignore default Dockerfile, not all variants
+docker-compose.yml
+.git
+

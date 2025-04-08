@@ -1,0 +1,12 @@
+# Dockerfile.backend
+FROM golang:1.23-alpine
+
+WORKDIR /app
+COPY . .
+
+# Adjust this to your actual Go entrypoint (e.g., cmd/main.go)
+RUN go build -o main ./cmd/app/main.go
+
+EXPOSE 8080
+CMD ["./main"]
+
